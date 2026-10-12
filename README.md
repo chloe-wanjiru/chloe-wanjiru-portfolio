@@ -1,1 +1,1 @@
-# copilot-portfolio-app
+# chloe-wanjiru-portfolio
