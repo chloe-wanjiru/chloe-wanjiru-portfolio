@@ -63,6 +63,9 @@
     nav a::after { background: var(--ink); bottom: -6px; content: ''; height: 1px; left: 0; position: absolute; transform: scaleX(0); transform-origin: right; transition: transform .3s ease; width: 100%; }
     nav a:hover::after { transform: scaleX(1); transform-origin: left; }
     .nav-contact { border-bottom: 1px solid var(--ink); padding-bottom: 5px; }
+    .nav-resume { border: 1px solid var(--ink); padding: 10px 14px; transition: background .25s, color .25s; }
+    .nav-resume:hover { background: var(--ink); color: var(--paper); }
+    .nav-resume::after { display: none; }
     .menu-toggle { background: none; border: 0; cursor: pointer; display: none; font-size: 1.4rem; padding: 4px; }
 
     .hero { min-height: 675px; padding: clamp(48px, 9vw, 128px) clamp(24px, 9vw, 132px) 92px; position: relative; }
@@ -163,6 +166,7 @@
       <nav aria-label="Main navigation">
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
+        <a class="nav-resume" href="resume.pdf" target="_blank" rel="noopener">View resume ↗</a>
         <a class="nav-contact" href="mailto:wanjiruchloe64@gmail.com">Let's talk ↗</a>
       </nav>
     </header>

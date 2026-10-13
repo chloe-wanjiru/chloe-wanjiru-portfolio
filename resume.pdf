@@ -1,0 +1,65 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2337 >>
+stream
+BT
+0 0 0 rg /F2 20 Tf 54 738 Td (CHLOE WANJIRU) Tj
+0 0 0 rg /F1 9 Tf 54 712 Td (Nairobi, Kenya | wanjiruchloe64@gmil.com | +254 790627953) Tj
+0 0 0 rg /F2 10 Tf 54 684 Td (EXPERIENCE) Tj
+0 0 0 rg /F2 10 Tf 54 666 Td (Independent Projects, Remote Operations Research & Web Developer) Tj
+0 0 0 rg /F1 8 Tf 54 652 Td (JAN 2026 - PRESENT) Tj
+0 0 0 rg /F1 9 Tf 54 640 Td (- Engineered a linear programming optimization engine to maximize cargo payload capacity and) Tj
+0 0 0 rg /F1 9 Tf 54 627 Td (  flight revenue under strict weight, volume, and balance constraints.) Tj
+0 0 0 rg /F1 9 Tf 54 614 Td (- Developed automated data pipelines utilizing DuckDB for high-performance querying of) Tj
+0 0 0 rg /F1 9 Tf 54 601 Td (  aviation, flight, and cargo datasets.) Tj
+0 0 0 rg /F1 9 Tf 54 588 Td (- Deployed a fully interactive web dashboard using Streamlit to translate complex) Tj
+0 0 0 rg /F1 9 Tf 54 575 Td (  mathematical optimization outputs into real-time operational decisions.) Tj
+0 0 0 rg /F2 10 Tf 54 550 Td (EDUCATION) Tj
+0 0 0 rg /F1 9 Tf 54 532 Td (Technical University of Kenya, Bachelor of Science in Information Science) Tj
+0 0 0 rg /F2 10 Tf 54 507 Td (PROJECTS) Tj
+0 0 0 rg /F2 10 Tf 54 489 Td (SkyCargo & Baggage Intelligence System Optimization & Analytics Platform) Tj
+0 0 0 rg /F1 9 Tf 54 475 Td (Built a production-ready web application combining DuckDB data processing and PuLP linear) Tj
+0 0 0 rg /F1 9 Tf 54 462 Td (programming to automate flight dispatch calculations and asset allocation.) Tj
+0 0 0 rg /F2 10 Tf 54 437 Td (SKILLS) Tj
+0 0 0 rg /F1 9 Tf 54 419 Td (- Python, SQL, Operations Research, Mathematical Optimization) Tj
+0 0 0 rg /F1 9 Tf 54 406 Td (- Tableau, Data Visualization, DuckDB, Pandas, PuLP / Linear Programming) Tj
+0 0 0 rg /F1 9 Tf 54 393 Td (- Git, GitHub, VS Code, Streamlit Cloud, Web Deployment) Tj
+0 0 0 rg /F2 10 Tf 54 368 Td (LANGUAGES) Tj
+0 0 0 rg /F1 9 Tf 54 350 Td (- English, Native/Fluent, Full professional proficiency across technical and non-technical) Tj
+0 0 0 rg /F1 9 Tf 54 337 Td (  domains.) Tj
+0 0 0 rg /F1 9 Tf 54 324 Td (- Swahili, Native/Fluent, Full professional proficiency across technical and non-technical) Tj
+0 0 0 rg /F1 9 Tf 54 311 Td (  domains.) Tj
+0 0 0 rg /F1 9 Tf 54 298 Td (- French, A2 Proficiency, Conversational and technical reading competency.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2790
+%%EOF
