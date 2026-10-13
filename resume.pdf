@@ -1,65 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
 endobj
 6 0 obj
-<< /Length 2553 >>
+<<
+/Author (Chloe Wanjiru) /CreationDate (D:20261013163515+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261013163515+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Chloe Wanjiru Resume) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1387
+>>
 stream
-BT
-0 0 0 rg /F2 20 Tf 1 0 0 1 54 738 Tm (CHLOE WANJIRU) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 712 Tm (Nairobi, Kenya | wanjiruchloe64@gmil.com | +254 790627953) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 684 Tm (EXPERIENCE) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 666 Tm (Independent Projects, Remote Operations Research & Web Developer) Tj
-0 0 0 rg /F1 8 Tf 1 0 0 1 54 652 Tm (JAN 2026 - PRESENT) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 640 Tm (- Engineered a linear programming optimization engine to maximize cargo payload capacity and) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 627 Tm (  flight revenue under strict weight, volume, and balance constraints.) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 614 Tm (- Developed automated data pipelines utilizing DuckDB for high-performance querying of) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 601 Tm (  aviation, flight, and cargo datasets.) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 588 Tm (- Deployed a fully interactive web dashboard using Streamlit to translate complex) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 575 Tm (  mathematical optimization outputs into real-time operational decisions.) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 550 Tm (EDUCATION) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 532 Tm (Technical University of Kenya, Bachelor of Science in Information Science) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 507 Tm (PROJECTS) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 489 Tm (SkyCargo & Baggage Intelligence System Optimization & Analytics Platform) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 475 Tm (Built a production-ready web application combining DuckDB data processing and PuLP linear) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 462 Tm (programming to automate flight dispatch calculations and asset allocation.) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 437 Tm (SKILLS) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 419 Tm (- Python, SQL, Operations Research, Mathematical Optimization) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 406 Tm (- Tableau, Data Visualization, DuckDB, Pandas, PuLP / Linear Programming) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 393 Tm (- Git, GitHub, VS Code, Streamlit Cloud, Web Deployment) Tj
-0 0 0 rg /F2 10 Tf 1 0 0 1 54 368 Tm (LANGUAGES) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 350 Tm (- English, Native/Fluent, Full professional proficiency across technical and non-technical) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 337 Tm (  domains.) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 324 Tm (- Swahili, Native/Fluent, Full professional proficiency across technical and non-technical) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 311 Tm (  domains.) Tj
-0 0 0 rg /F1 9 Tf 1 0 0 1 54 298 Tm (- French, A2 Proficiency, Conversational and technical reading competency.) Tj
-ET
-endstream
+Gau`R?$"^Z'Re<2\5*ucf+@krf@ppW;Gp+83:4Ee>C]W)E[<`F48\(49&M&\,W<!bR2om%+KVVbc9:o.\^8<VCS,SRE#HL2Pma`"d2(N1'0nC00KT)WjrWFHH(?)er,/En)fWK+fB)E/\%4euiP$!NH/O]V,gSDh>*F1%gCQQ0(H8\Nh/<k\6hJ!IrXh@ZTA]G.:[elB\6oh$JFS-n@8^p/"7Kr)')3Ce8TrEj&b!9'rSZ"-b'59L.K8pof*bt?lLqp-W9;cbkmp93JO-kQMrm8`r+d1QB&R232M<1I<VRA-]hZnl4`E4)7qQ0;'aA?rZ@q?S+.7k['_aH8b(1:%Kr/gY;b8eZRDK\-M2_1J%\MtiVY#F[JU]W:lFZ_r]da7SbIVIlhi&B0FhKuG@CZ`si?E"r`=M6/_5M8@1=r[k@1MZJ^(;U;C."BU=@T9c#nZ%iPt8umfL_7'/DG`s2+uVHWs2Dt12$\;q.>pA`'j"rjJ:jg,krl;1".G1/:fBc]=eE*P%=fN!l^IuZt-GEGZ?^EWHm$F#Jl=_3d1CTE0A1b!iA7V_D85S%=39TNa&R)d2-qW<#J.g$8#/MnQS=:JXkiO#c+-?N3htBSS8[cR9ma28D#/>2Au\4V\]$YK$)M6\-;H=XFe_pPQSgUFsa_ncc@-3][!c@$5tl^kBomC/kVW'D8CK(W%AoOf'It),J#u\C;1?K-;Z,.@'(_$.;.A1*cmGmNk/V1d[\d)BEl/Jpg>i80+B-5SJPIt"2rMGa,mrnmns]s\`*78`_;fCCWLX::ohL'NFdDp)+V$f776_(Yb?O'0N'EqnNO9Gggqn3<2LS\!Of*kE(T%Pg.Rm2Fj-d=$HlhC=kd''Nlqk3r<@eUdpK7qDo,)QD@#ZUs0A].^Q]CIl>pLIgQ<LFC790"]qr:mQ)6#(f4Q-bLG:-i7/&*3U9BLgp%X-dTUu'#-.'4S(t[ttCiDrXS($-U_PFQ9-[EulE>B3KHc*.%'n5?H;T)PfMD4/(/EY.-=shfkeN/`P?I<I59]\\&1dQc4"[C9L'9"@+!C/U\#7(e4%gEIU]Uo/rqq6AROStj@rH]8cQ?mK'h>60eH#9'4nDSZAG]&>$g0bKAnimRo6oLQu_L\].mO+k=_N,h0A)\M2@Wi#`%;`I+@"-2kngWIoiV!.V(\O6Ui5!CF@cP8%2,$DiZgt(U:UheckBKcW/O%/.c"Z\&>'Ou=Bg,j.hi4hW#"SL^om.O%]VoeHco;DBk1%?b09D_,=#e#iq/&i;g(@eC0\]"c*YM,>'^-WEg!j2[FoSh3@&:0q`:<.(s+<G:+3>RB&H=\SIdID$NQRMSCm^HlB1eo8lC^!j1]48PDP0201d0GI8ooKTg2)!90qA1E-fL6k~>endstream
 endobj
 xref
-0 7
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000064 00000 n 
-0000000121 00000 n 
-0000000257 00000 n 
-0000000327 00000 n 
-0000000402 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000582 00000 n 
+0000000869 00000 n 
+0000000928 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<<
+/ID 
+[<cde3147e68eee1e773167bed3b7a875a><cde3147e68eee1e773167bed3b7a875a>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
 startxref
-3006
+2406
 %%EOF
