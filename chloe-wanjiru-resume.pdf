@@ -1,0 +1,124 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (Chloe Wanjiru) /CreationDate (D:20261013164107+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20261013164107+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (Chloe Wanjiru Resume) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Length 2885
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 20 Tf 24 TL ET
+BT 1 0 0 1 46.8 745.2 Tm (CHLOE WANJIRU) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 720.2 Tm (Nairobi, Kenya | wanjiruchloe64@gmil.com | +254 790627953) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 46.8 705.2 Tm (EXPERIENCE) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 46.8 685.2 Tm (Independent Projects, Remote Operations Research & Web Developer) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 46.8 671.2 Tm (JAN 2026 - PRESENT) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 658.2 Tm (- Engineered a linear programming optimization engine to maximize cargo payload capacity and flight revenue under strict) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 646.2 Tm (  weight, volume, and balance constraints.) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 634.2 Tm (- Developed automated data pipelines utilizing DuckDB for high-performance querying of aviation, flight, and cargo datasets.) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 622.2 Tm (- Deployed a fully interactive web dashboard using Streamlit to translate complex mathematical optimization outputs into) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 610.2 Tm (  real-time operational decisions.) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 46.8 598.2 Tm (EDUCATION) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 578.2 Tm (Technical University of Kenya, Bachelor of Science in Information Science) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 46.8 565.2 Tm (PROJECTS) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 46.8 545.2 Tm (SkyCargo & Baggage Intelligence System Optimization & Analytics Platform) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 531.2 Tm (Built a production-ready web application combining DuckDB data processing and PuLP linear programming to automate flight) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 519.2 Tm (dispatch calculations and asset allocation.) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 46.8 507.2 Tm (SKILLS) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 487.2 Tm (- Python, SQL, Operations Research, Mathematical Optimization) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 475.2 Tm (- Tableau, Data Visualization, DuckDB, Pandas, PuLP / Linear Programming) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 463.2 Tm (- Git, GitHub, VS Code, Streamlit Cloud, Web Deployment) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 46.8 451.2 Tm (LANGUAGES) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 431.2 Tm (- English, Native/Fluent, Full professional proficiency across technical and non-technical domains.) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 419.2 Tm (- Swahili, Native/Fluent, Full professional proficiency across technical and non-technical domains.) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 46.8 407.2 Tm (- French, A2 Proficiency, Conversational and technical reading competency.) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000582 00000 n 
+0000000859 00000 n 
+0000000918 00000 n 
+trailer
+<<
+/ID 
+[<1ca531adba537cbf725123acc122b1cc><1ca531adba537cbf725123acc122b1cc>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
+startxref
+3854
+%%EOF
