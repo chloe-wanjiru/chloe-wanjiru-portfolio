@@ -79,8 +79,7 @@
     .text-link { display: inline-flex; font-size: .65rem; font-weight: 800; }
     .hero-shape { align-items: center; background: var(--lime); border-radius: 50%; display: flex; height: 280px; justify-content: center; position: absolute; right: 8%; top: 110px; width: 280px; z-index: 0; }
     .hero-shape::after { border: 1px solid var(--ink); border-radius: 50%; content: ''; inset: 22px -18px -20px 18px; position: absolute; }
-    .scroll-cue { align-items: center; bottom: 42px; display: flex; gap: 14px; left: clamp(24px, 9vw, 132px); position: absolute; }
-    .scroll-cue::after { background: var(--ink); content: ''; height: 1px; width: 40px; }
+    .scroll-cue { bottom: 42px; left: clamp(24px, 9vw, 132px); position: absolute; }
 
     .section { border-top: 1px solid var(--line); padding: 104px clamp(24px, 9vw, 132px); }
     .section-label { color: var(--muted); margin: 0; }
@@ -160,7 +159,7 @@
   <div class="page-shell">
     <header>
       <a class="brand" href="#top" aria-label="Chloe Wanjiru Muriithi home"><span class="brand-mark">C</span><span>CHLOE WANJIRU MURIITHI</span></a>
-      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">Menu</button>
       <nav aria-label="Main navigation">
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
@@ -187,7 +186,7 @@
       </section>
 
       <section class="section" id="about">
-        <p class="section-label mono">01 / A little about me</p>
+        <p class="section-label mono">A little about me</p>
         <div class="about-layout">
           <h2 class="reveal">Curious about patterns, <em>serious</em> about impact.</h2>
           <div class="about-copy reveal">
@@ -201,10 +200,10 @@
       </section>
 
       <section class="section projects" id="projects">
-        <p class="section-label mono">02 / Selected projects</p>
+        <p class="section-label mono">Selected projects</p>
         <div class="projects-heading">
           <h2>Data with real<br /><em>purpose.</em></h2>
-          <span class="project-index mono">( 04 — 2021–24 )</span>
+          <p class="projects-description">These projects showcase my approach to solving real-world problems with data and AI.</p>
         </div>
         <div class="project-grid">
           <a class="project-card reveal" href="https://skycargo-intelligence-dwwtork68mv8khkeg7xzzz.streamlit.app/">
@@ -242,7 +241,7 @@
     menuToggle.addEventListener('click', () => {
       const isOpen = navigation.classList.toggle('open');
       menuToggle.setAttribute('aria-expanded', isOpen);
-      menuToggle.textContent = isOpen ? '×' : '☰';
+      menuToggle.textContent = isOpen ? 'Close' : 'Menu';
     });
 
     const revealObserver = new IntersectionObserver((entries) => {
